@@ -4,10 +4,10 @@
 An intelligent research assistant that autonomously searches, analyzes, and creates comprehensive research reports on any topic using multiple AI agents.
 
 ## Features
-- 🔍 **Autonomous Web Search**: Generates smart search queries and gathers information
-- 🧠 **Intelligent Analysis**: Extracts key insights and synthesizes information
-- 📄 **Report Generation**: Creates professional, well-structured research reports
-- 🤖 **Multi-Agent System**: Three specialized agents working together
+- **Autonomous Web Search**: Generates smart search queries and gathers information
+- **Intelligent Analysis**: Extracts key insights and synthesizes information
+- **Report Generation**: Creates professional, well-structured research reports
+- **Multi-Agent System**: Three specialized agents working together
 
 ## Architecture
 
@@ -27,8 +27,3 @@ An intelligent research assistant that autonomously searches, analyzes, and crea
 ### Prerequisites
 - Python 3.8 or higher
 - OpenAI API key
-
-### Setup Steps
-
-1. **Clone/Create the project**
-```bash
