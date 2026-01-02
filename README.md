@@ -2,7 +2,7 @@
 
 ## Overview
 An intelligent research assistant that autonomously searches, analyzes, and creates comprehensive research reports on any topic using multiple AI agents.
-
+![Live Demo](https://ai-research-assistant-5ueobkvrewjcgidq5zxxb5.streamlit.app/)
 ## Features
 - **Autonomous Web Search**: Generates smart search queries and gathers information
 - **Intelligent Analysis**: Extracts key insights and synthesizes information
